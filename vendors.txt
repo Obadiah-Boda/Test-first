@@ -1,0 +1,10 @@
+quick edit
+This is a simple test txt file
+there isn't too much thats important that goes in here
+Hello World!;
+using std::cout;
+
+for(int i = 0; i <20; i++)
+{
+cout << "dicks" << i << std::endl;
+}
